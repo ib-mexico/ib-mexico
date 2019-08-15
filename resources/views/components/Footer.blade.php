@@ -50,7 +50,7 @@
                 <div class="row mt-3 justify-content-center">
                     <div class="col-md-4 text-center">
                         <i class="fas fa-envelope fa-lg"></i>
-                        <p>vht@ib-mexico.com</p>
+                        <p>ventas@ib-mexico.com</p>
                     </div>
                     <div class="col-md-4 text-center">
                         <i class="fas fa-phone fa-lg"></i>

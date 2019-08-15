@@ -26,7 +26,7 @@
                             <i class="fas fa-envelope red-text fa-2x"></i>
                         </div>
                         <div class="col-lg-10">
-                            <span class="grey-text" style="line-height: 30px">vht@ib-mexico.com</span>
+                            <span class="grey-text" style="line-height: 30px">ventas@ib-mexico.com</span>
                         </div>
                     </div>
                     <div class="row text-center text-lg-left">

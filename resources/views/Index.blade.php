@@ -48,11 +48,6 @@
                         <img src="{{ asset('img/marcas/marcas8.png') }}" alt="" class="img-fluid">     
                     </div>
                 </div>
-                <div class="col-sm-6 col-md-4 col-lg-3 mb-4 wow fadeIn" data-wow-delay="0.4s" style="visibility: visible; animation-name: fadeIn; animation-delay: 0.4s;">
-                    <div class="card hoverable col">
-                        <img src="{{ asset('img/marcas/marcas9.png') }}" alt="" class="img-fluid">     
-                    </div>
-                </div>
             </div>
         </div>
     </section>

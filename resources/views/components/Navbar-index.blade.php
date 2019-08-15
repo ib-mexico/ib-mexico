@@ -27,19 +27,6 @@
                     <a class="nav-link waves-effect waves-light" href="{{ route('contacto') }}" data-offset="80"><strong>Contacto</strong></a>
                 </li>
             </ul>
-    
-            <!--Social Icons>
-            <ul class="navbar-nav nav-flex-icons">
-                <li class="nav-item">
-                    <a class="nav-link waves-effect waves-light"><i class="fab fa-facebook-f white-text"></i></a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link waves-effect waves-light"><i class="fab fa-twitter white-text"></i></a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link waves-effect waves-light"><i class="fab fa-instagram white-text"></i></a>
-                </li>
-            </ul-->
         </div>
     </div>
 </nav>
