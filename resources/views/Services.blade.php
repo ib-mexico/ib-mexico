@@ -1,9 +1,9 @@
 @extends('components.Main')
 
+@section('pagina', 'Servicios')
+@section('seccion', 'Nuestros Servicios')
+
 @section('body')
-
-    @section('seccion', 'Nuestros Servicios')
-
     <section class="mt-5 mb-5">
         <div class="container">
             <div class="row justify-content-md-center">
@@ -104,10 +104,11 @@
     <section>
         <div class="container">
             <div class="row mb-3 justify-content-center">
-                <div class="col-1 text-center">
-                    <i class="far fa-question-circle fa-4x red-text"></i>
+                <div class="col-md-2 col-sm-12 text-center mb-4">
+                    <i class="far fa-question-circle fa-5x red-text"></i>
                 </div>
-                <div class="col-8 mb-2">
+                <div class="col-md-8 col-sm-12 mb-2">
+                    
                     <h5 class="font-weight-bold title">¿Tienes alguna pregunta o necesitas un presupuesto personalizado?</h5>
                     <p class="grey-text">
                             Nuestro equipo de atención a cliente con gusto te atenderá para aclarar todas tus dudas y proporcionarte un presupuesto acorde a tus necesidades.

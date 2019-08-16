@@ -1,8 +1,9 @@
 @extends('components.Main')
 
-@section('body')
+@section('pagina', 'Nosotros')
+@section('seccion', 'Nosotros')
 
-    @section('seccion', 'Nosotros')
+@section('body')
 
     <section class="mt-5 mb-5">
         <div class="container">
@@ -43,7 +44,7 @@
                             </div>
                         </div>
                         <h6 class="font-weight-bold title">Valores</h6>
-                        <p class="font-small grey-text">Graphic designer</p>
+                        <p class="font-small grey-text">Pilares de nuestra empresa</p>
                     </div>
                 </div>
 

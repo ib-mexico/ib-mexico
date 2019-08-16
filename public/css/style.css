@@ -83,12 +83,12 @@
 }
 @media (max-width:768px){
     .ibm-lp .navbar:not(.top-nav-collapse){
-        background:#2E2E2E
+        background:#2E2E2E38
     }
 }
 @media (min-width:800px) and (max-width:850px){
     .ibm-lp .navbar:not(.top-nav-collapse){
-        background:#2E2E2E
+        background:#2E2E2E38
     }
 }
 .ibm-lp .pricing-card .price .version,.ibm-lp .top-footer-color{

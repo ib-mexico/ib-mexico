@@ -4,7 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>IB-México</title>
+    <link rel="icon" type="image/png" href="img/icon/ib-logo.png">
+    <title>IB-México | @yield('pagina')</title>
 
     @include('components.Css')
     @section('css')

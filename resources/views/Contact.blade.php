@@ -1,5 +1,6 @@
 @extends('components.Main')
 
+@section('pagina', 'Contacto')
 @section('seccion', 'Contáctanos')
 
 @section('body')

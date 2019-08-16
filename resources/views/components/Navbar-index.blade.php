@@ -1,7 +1,7 @@
 <nav class="navbar navbar-expand-lg navbar-dark fixed-top scrolling-navbar">
     <div class="container">
         <span class="navbar-brand">
-            <img src="{{ asset('img/ib-logo.svg') }}" height="50" class="d-inline-block align-top"alt=IB-México>
+            <img src="{{ asset('img/icon/ib-logo.png') }}" height="50" class="d-inline-block align-top"alt=IB-México>
         </span>
 
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
